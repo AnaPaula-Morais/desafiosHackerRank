@@ -23,7 +23,6 @@ function solveMeFirst(a, b) {
   return sum;
 }
 
-
 function main() {
     var a = parseInt(readLine());
     var b = parseInt(readLine());;
@@ -31,3 +30,7 @@ function main() {
     var res = solveMeFirst(a, b);
     console.log(res);
 }
+console.log (solveMeFirst(3,4));
+
+
+
